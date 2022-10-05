@@ -12,6 +12,15 @@ jQuery(function ($) {
   });
 });
 
+jQuery((function(e) {
+    const n = document.getElementsByClassName("navbar");
+    document.addEventListener("scroll", (function() {
+        document.body.scrollTop > 50 || document.documentElement.scrollTop > 50 ? n[0].classList.add("nav-scroll") : n[0].classList.remove("nav-scroll")
+    }), {
+        passive: !0
+    })
+}));
+
 // this is a mock ajax call
 function submitViaAjax(formData) {
   // DO NOT EDIT BELOW THIS LINE
