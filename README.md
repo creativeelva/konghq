@@ -1,3 +1,5 @@
+##  Changes 10/4
+Applied changes to the Hero, including background image/gradient and updates to text and cta's.
 
 <h2 align="center">webpack-sass-bootstrap-boilerplate</h2>
 
