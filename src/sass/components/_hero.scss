@@ -1,3 +1,78 @@
-.component.hero {
-  // Add your code here
+
+body{
+  
+  .btn-secondary{
+  background: #1155CB;
+  border: 1px solid #1155CB;
+  border-radius: 5px;
+  color:#ffffff;
+  }
+
+.btn-primary{
+  background: #FFFFFF;
+  border: 1px solid #1155CB;
+  color:#1155CB;
+  margin-right:24px;
+  }
+}
+
+.main-component{
+  max-width:100%!important;
+  }
+
+.hero{
+  background: url('/src/assets/hero-enterprise.svg') top right no-repeat, linear-gradient(270deg,rgba(234,243,250,1) 0%,rgba(234,243,250,1) 60%,rgba(255,255,255,1) 100%) top right/100vw no-repeat;
+  position:relative;
+  overflow: visible;
+  padding-top:6rem;
+  padding-bottom:131px;
+  margin-bottom:100px;
+
+
+img  {
+  margin-bottom:20px;
+  }
+
+ h1.lg{
+ font-weight: 700;
+ font-size: 2.5rem;
+ line-height: 120%;
+ padding-bottom:24px;
+  }
+
+.lead{
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26px;
+  }
+
+.btn{
+  width:152px;
+  height:45px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  padding:12px;
+  margin-top:25px;
+  border-radius:5px;
+  } 
+}
+
+.component{
+  
+h2 {
+  font-size:36px;
+  line-height:44px;
+  font-weight:600;
+  margin-bottom:2rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  
+.component.hero{
+background-color:rbga(255,255,255,0);
+  }
+
 }
