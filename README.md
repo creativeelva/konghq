@@ -1,8 +1,10 @@
 ##  Changes 10/5 - Final Submission
 Final Updates.
 
-For mobile hero: I removed the image and left only the gradient to help legibility and page performance on mobile.
-Nav Scroll: Added subtle drop shadow on scroll with jquery.
+<p>For mobile hero: I removed the image and left only the gradient to help legibility and page performance on mobile.</p>
+<p>Nav Scroll: Added subtle drop shadow on scroll with jquery.</p>
+<p>UTM parameters were added using hidden form fields. However if Wordpress forms are being utilized, I'd use the utm functionality that's native to WP Forms.</p>
+
 
 ##  Changes 10/4
 Applied changes to the Hero, including background image/gradient and updates to text and cta's.
