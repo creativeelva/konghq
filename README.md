@@ -1,3 +1,7 @@
+##  Changes 10/5
+Final Updates and github repo link below.
+
+
 ##  Changes 10/4
 Applied changes to the Hero, including background image/gradient and updates to text and cta's.
 
@@ -78,11 +82,11 @@ for installing dependencies, starting the appropriate scripts, and building your
 ### Quick Start
 Clone the repo:
 
-    git clone https://github.com/shaminmeerankutty/webpack-sass-bootstrap-boilerplate.git
+    https://github.com/creativeelva/konghq.git
 
 Navigate to the project folder:
 
-    cd webpack-sass-bootstrap-boilerplate
+    cd konghq
 
 Install all packages and dependencies required for this project:
 
