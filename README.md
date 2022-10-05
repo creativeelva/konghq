@@ -1,6 +1,8 @@
-##  Changes 10/5
-Final Updates and github repo link below.
+##  Changes 10/5 - Final Submission
+Final Updates.
 
+For mobile hero: I removed the image and left only the gradient to help legibility and page performance on mobile.
+Nav Scroll: Added subtle drop shadow on scroll with jquery.
 
 ##  Changes 10/4
 Applied changes to the Hero, including background image/gradient and updates to text and cta's.
